@@ -1,0 +1,25 @@
+{
+  "name": "log-archive",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "bin": {
+    "log-archive": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "adm-zip": "^0.5.16",
+    "chalk": "^5.4.1",
+    "commander": "^13.1.0",
+    "figlet": "^1.8.1",
+    "inquirer": "^12.5.2",
+    "node-cron": "^3.0.3",
+    "ora": "^8.2.0",
+    "tar": "^7.4.3"
+  }
+}

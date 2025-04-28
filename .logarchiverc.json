@@ -1,0 +1,8 @@
+{
+    "directory": "./logs",
+    "output": "./archives",
+    "format": "tar.gz",
+    "schedule": "",
+    "user": "admin"
+  }
+  
